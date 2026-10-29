@@ -6,3 +6,4 @@ public class Main {
 }
 ```inDEx clASS.MaIN.HTml
 temporary docUMENT UPDaTes
+Setting ThE DOCUMENt UPDATeS FOR LOCALLY
